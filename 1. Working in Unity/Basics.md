@@ -51,5 +51,10 @@ Unity下载助手支持离线下载部署。这允许你为安装Unity下载所�
 在**Create Project**窗口中，你可以为将要创建的项目设置多种初始设置。在下文中，将详细叙述这些设置。<br>
 <img src="https://docs.unity3d.com/uploads/Main/GettingStarted4.png" alt="Create Project窗口"/><br>
 
-
+ **设置**         | **功能介绍**
+-----------------|--------------
+Project name     | 
+Location         | 
+3D / 2D          | 
+Add Asset Package|
 

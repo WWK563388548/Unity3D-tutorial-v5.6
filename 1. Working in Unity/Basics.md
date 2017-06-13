@@ -33,8 +33,23 @@ Unity下载助手支持离线下载部署。这允许你为安装Unity下载所�
 <br>
 
 ## 3.开始使用Unity
-<br>
+### 初次使用Unity
+当你开启Unity时，主界面便会出现。如果你的电脑上没有Unity项目的存在，或者当你首次启动Unity编辑器时，主界面便会显示学习选项卡(Learn Tab)。<br>
+<img src="https://docs.unity3d.com/uploads/Main/GettingStarted5.png" alt="(The Learn Tab)学习选项卡"/><br>
+通过学习选项卡，你可以获取Unity教程与学习资源来帮助你开始使用Unity。如果你是一个使用Unity的新手，那你就最好在开始项目之前先学习Unity的教程。
 
+### 项目选项卡(The Project Tab)
+通过在主屏幕点击Projects来切换到项目选项卡。<br>
+<img src="https://docs.unity3d.com/uploads/Main/GettingStarted1.png" alt="(The Learn Tab)学习选项卡"/><br>
+点击**New**可以开启一个新项目。这可以打开**Create Project**视窗。<br>
+点击**Projects**选项卡中的项目名就可以打开现在电脑中已经存在的Unity项目，也可以点击**Open**按钮去搜索电脑中项目文件。<br>
+点击**In The Cloud**按钮可以进入Unity合作项目库，并选择你想加载的项目。然后你将被提示在你的电脑上选择一个储存数据的位置。<br>
+
+#### 创建一个项目
+<img src="https://docs.unity3d.com/uploads/Main/GettingStarted3.png" alt="主界面的右上角"/><br>
+点击位于主界面(Home Screen)右上角的**New**，便可以进入**Create Project**窗口。若当你已经进入Unity编辑器，点击**File** > **New Project**...便可以进入主界面(Home Screen)。<br>
+在**Create Project**窗口中，你可以为将要创建的项目设置多种初始设置。在下文中，将详细叙述这些设置。<br>
+<img src="https://docs.unity3d.com/uploads/Main/GettingStarted4.png" alt="Create Project窗口"/><br>
 
 
 

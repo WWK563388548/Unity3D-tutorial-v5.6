@@ -58,3 +58,15 @@ Location         |
 3D / 2D          | 
 Add Asset Package|
 
+### 学习选项卡(The Learn Tab)
+主界面窗口上的学习选项卡可以使你获得多种多样的教程和学习资源(包括一些可以直接导入到Unity中的项目案例)来帮助你开始使用Unity进行开发。<br>
+学习选项卡会在Unity开启后显示在主界面窗口中。在Unity编辑器中也可以通过点击**File** > **New Project**来进入主界面窗口。<br>
+
+<img src="https://docs.unity3d.com/uploads/Main/Learn1.png" alt="主界面中的学习选项卡"/><br>
+
+学习选项卡有四个部分：<br>
+
+* 初次使用(Get Started)
+* 教程(Tutorial)
+* 资源(Resources)
+* 链接(Link)
